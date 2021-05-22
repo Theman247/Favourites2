@@ -221,26 +221,30 @@ a.tm-text-primary:hover { color:#666666; }
 
 .nav-link-1.active,
 .nav-link-1:hover {
-    border-color: #33CCFF;
+    border-color: #DC143C;
 }
 
 .nav-link-2.active,
 .nav-link-2:hover {
-    border-color: #FF6666;
+    border-color: #FFA500;
 }
 
 .nav-link-3.active,
 .nav-link-3:hover {
-    border-color: #33CC66;
+    border-color: #00FFFF;
 }
 
 .nav-link-4.active,
 .nav-link-4:hover {
-    border-color: #CC66CC;
+    border-color: #00BFFF;
 }
 .nav-link-5.active,
 .nav-link-5:hover {
-    border-color: #00FFFF;
+    border-color: #FFFF00;
+}
+.nav-link-6.active,
+.nav-link-6:hover {
+    border-color: #00FF00;
 }
 
 .tm-search-input {
